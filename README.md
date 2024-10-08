@@ -13,4 +13,4 @@ python app.py
 
 > После выполнения команды перейдите по ссылке в терминале, откроется главная страница
 
-![Image alt](https://github.com/neeearina/exchangeAPI/raw/main/screenshots/img.png)
+![Image alt](https://github.com/neeearina/exchangeAPI/raw/main/converter/screenshots/img.png)
